@@ -3,8 +3,8 @@ import shutil
 import pydicom
 import pydicom.errors
 
-ROOTDIR = 'C:\\Users\\r.brecheisen\\Downloads\\weasis\\lung3'
-OUTPUTDIR = 'C:\\Users\\r.brecheisen\\Downloads\\weasis\\lung3reorg'
+ROOTDIR = "D:\\Mosamatic\\ChenFei_LUNG3\\Output"
+OUTPUTDIR = "D:\\Mosamatic\\ChenFei_LUNG3\\OutputReorg"
 
 
 def is_dicom_file(dicom_file_path):
